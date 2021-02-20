@@ -1,0 +1,33 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/mistybailey/Desktop/BIOSITE PROJECCT - BOSTON Folder/Document fonts/AdobeFnt21.lst
+FileLength:508
+FileModTime:632373214
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lusitana
+FamilyName:Lusitana
+StyleName:Regular
+MenuName:Lusitana
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Lusitana
+WritingScript:Roman
+OutlineFileName:/Users/mistybailey/Desktop/BIOSITE PROJECCT - BOSTON Folder/Document fonts/Lusitana-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:28736
+FileModTime:347961600
+NameArray:0,Win,1,Lusitana
+%EndFont
+
